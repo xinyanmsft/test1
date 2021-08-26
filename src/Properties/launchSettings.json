@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IOTest": {
+      "commandName": "Project",
+      "commandLineArgs": "--count 1000 --TestDirectory d:\\temp\\1 --verbose true --FileSizeInKB 1000"
+    }
+  }
+}
