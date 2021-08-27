@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "copy-tool": {
+      "commandName": "Project",
+      "commandLineArgs": "d:\\temp\\saw1.png"
+    }
+  }
+}
